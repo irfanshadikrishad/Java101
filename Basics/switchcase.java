@@ -1,3 +1,5 @@
+package Basics;
+
 public class switchcase {
     public static void main(String[] args) {
         int number = 2;

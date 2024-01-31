@@ -1,3 +1,5 @@
+package Basics;
+
 public class Arrayy {
     public static void main(String[] args) {
         String[] cars = { "Lamborghini", "Bugatti", "Ferrari", "BMW" };

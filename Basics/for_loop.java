@@ -1,3 +1,5 @@
+package Basics;
+
 public class for_loop {
     public static void main(String[] args) {
         String[] cars = { "Lamborghini", "Bugatti", "Ferrari" };

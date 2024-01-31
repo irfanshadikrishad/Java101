@@ -1,3 +1,5 @@
+package Basics;
+
 // Primitive data types - 
 // includes byte, short, int, long, float, double, boolean and char
 

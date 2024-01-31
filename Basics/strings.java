@@ -1,3 +1,5 @@
+package Basics;
+
 public class strings {
     public static void main(String[] args) {
         String txt = "War is Peace, Freedom is Slavery, Ignorence is Strength";

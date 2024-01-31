@@ -1,3 +1,5 @@
+package Basics;
+
 public class ifelse {
     public static void main(String[] args) {
         int number = 30;

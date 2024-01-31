@@ -1,3 +1,5 @@
+package Basics;
+
 public class math {
     public static void main(String[] args) {
         int randomNumber = (int)(Math.random() * 10);
